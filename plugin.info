@@ -1,0 +1,9 @@
+{
+    "title": "$:/plugins/girvo/clockin",
+    "description": "A small plugin to insert timestamps into a tiddler",
+    "author": "girvo",
+    "version": "0.0.1",
+    "core-version": ">=5.0.8",
+    "source": "https://github.com/girvo/tw5-clock-in",
+    "plugin-type": "plugin"
+}
